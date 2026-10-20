@@ -1,0 +1,6 @@
+{
+  "name": "Inferno - Portal das Chamas",
+  "description": "Experiência 3D imersiva do inferno otimizada para mobile com portais de lava, névoa sulfúrica e transição cinematográfica para o abismo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
